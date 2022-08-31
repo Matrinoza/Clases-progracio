@@ -19,3 +19,6 @@ comando-> cmd
 control etiqueta
 label -> lbl/eti
 caja de texto ->txt
+
+para comentar en C# es 2 veces //
+cuando se crea un obejto es en base a una class frmLogin
