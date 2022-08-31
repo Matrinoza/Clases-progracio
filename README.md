@@ -1,4 +1,4 @@
-# Clases cshapr
+# Clases C#
 nomeclatura - es la forma de llamar a distintos objetos, en el caso del de programacion al codigo
 
 buenas practicas
